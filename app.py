@@ -191,7 +191,7 @@ st.sidebar.markdown("""
 """)
 
 # Main content
-st.title('Cipher Detection Tool 🔐')
+st.title('Cipher Detection Tool')
 encoded_text = st.text_area("Enter the encoded text here:")
 
 if encoded_text:
